@@ -1,0 +1,30 @@
+{
+  "name": "pwim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Athens/PWIM.git"
+  },
+  "author": "Steven Palabyab, Roel Asuncion, Maryrose Panganiban, Khrysslyn Tabay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Athens/PWIM/issues"
+  },
+  "homepage": "https://github.com/The-Athens/PWIM#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12",
+    "scss": "^0.2.4"
+  }
+}
